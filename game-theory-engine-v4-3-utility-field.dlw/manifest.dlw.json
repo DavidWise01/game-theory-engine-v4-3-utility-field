@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-GAME_THEORY_ENGINE_V4_3_UTILITY_FIELD",
+  "name": "V4.3 UTILITY FIELD · GAM",
+  "universe": "ARTIFICIAL INTELLIGENCE",
+  "moniker": "⟦V4.3 UTILITY FIELD · GAM:game-theory-engine-v4-3-utility-field:c7dbaf⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "c7dbafa1dde1567c160d21e188239f462f11a74b7ca143bdc056b67e455b1c4e",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
